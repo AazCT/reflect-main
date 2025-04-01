@@ -2,8 +2,7 @@
   "name": "reflect-app",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "build": "netlify deploy --prod",
+    "start": "node app.js"
   },
   "dependencies": {
     "node-fetch-commonjs": "^3.3.2"
